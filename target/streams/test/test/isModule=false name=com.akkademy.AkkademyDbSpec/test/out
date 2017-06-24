@@ -2,3 +2,5 @@
 [0m[[0minfo[0m] [0m[32makkademyDb[0m[0m
 [0m[[0minfo[0m] [0m[32m  given SetRequest[0m[0m
 [0m[[0minfo[0m] [0m[32m  - should place key/value into map[0m[0m
+[0m[[0minfo[0m] [0m[32m  given two SetRequests[0m[0m
+[0m[[0minfo[0m] [0m[32m  - should place two key/values into map[0m[0m
